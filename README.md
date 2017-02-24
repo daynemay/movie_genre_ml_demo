@@ -1,5 +1,4 @@
-# movie_genre_ml_demo
-Machine Learning proof-of-concept exercise
+# Movie Genre Machine Learning exercise
 
 The intent of this exercise is to:
 
